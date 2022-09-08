@@ -14,7 +14,7 @@ import {
   buildFromNode,
   buildFromDom,
   diff,
-  getDefaultSN,
+  getDefaultSN, 
 } from 'rrdom';
 import type {
   RRNode,
